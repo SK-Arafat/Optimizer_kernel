@@ -65,10 +65,6 @@ Connect: Follow us on X for updates and demos.
 Support the Project
 Loved the speedup? Consider:
 
-⭐ Star the repo to show your support!
-☕ Buy me a coffee to fuel development: Buy Me a Coffee (Replace with your link).
-💼 Hire me for custom kernel optimization: Contact (Replace with your email).
-
 License
 KernelOptimizer is licensed under the MIT License.
 Acknowledgments
